@@ -1,0 +1,6 @@
+{
+  "editor.formatOnSave": true,
+  "[java]": {
+    "editor.defaultFormatter": "Oracle.oracle-java"
+  }
+}
