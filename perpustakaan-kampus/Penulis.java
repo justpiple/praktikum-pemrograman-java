@@ -1,4 +1,3 @@
-
 public class Penulis {
 
     String nama;
@@ -10,6 +9,10 @@ public class Penulis {
     }
 
     public void tampilInfo() {
-        System.out.println("      Penulis   : " + nama + " (" + kebangsaan + ")");
+        System.out.println("    Penulis   : " + nama + " (" + kebangsaan + ")");
+    }
+
+    public Penulis copy() {
+        return new Penulis(this.nama, this.kebangsaan);
     }
 }

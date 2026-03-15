@@ -1,4 +1,3 @@
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -28,5 +27,9 @@ public class Kategori {
         for (Buku b : daftarBuku) {
             b.tampilInfo();
         }
+    }
+
+    public Kategori copy() {
+        return new Kategori(this.namaKategori, this.deskripsi);
     }
 }

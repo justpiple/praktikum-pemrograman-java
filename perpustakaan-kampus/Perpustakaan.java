@@ -1,4 +1,3 @@
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -7,7 +6,7 @@ public class Perpustakaan {
     String namaPerpus;
     List<Kategori> daftarKategori;
 
-    public Perpustakaan(String namaPerpus, String lokasiKampus) {
+    public Perpustakaan(String namaPerpus) {
         this.namaPerpus = namaPerpus;
         this.daftarKategori = new ArrayList<>();
     }
@@ -34,5 +33,9 @@ public class Perpustakaan {
         for (Kategori k : daftarKategori) {
             k.tampilInfo();
         }
+    }
+
+    public Perpustakaan copy() {
+        return new Perpustakaan(this.namaPerpus);
     }
 }
