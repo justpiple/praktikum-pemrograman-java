@@ -1,0 +1,239 @@
+KATEGORI:Teknologi
+JUDUL:The Year in Tech, 2025
+TAHUN:2024
+ISBN:9781633695243
+SINOPSIS:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet.
+PENULIS:Tim editor HBR::Amerika Serikat
+---
+KATEGORI:Teknologi
+JUDUL:Artificial Intelligence: A Guide for Thinking Humans
+TAHUN:2019
+ISBN:9780374257835
+SINOPSIS:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet.
+PENULIS:Melanie Mitchell::Amerika Serikat
+---
+KATEGORI:Teknologi
+JUDUL:Life 3.0: Being Human in the Age of Artificial Intelligence
+TAHUN:2017
+ISBN:9781101946596
+SINOPSIS:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet.
+PENULIS:Max Tegmark::Swedia/AS
+---
+KATEGORI:Teknologi
+JUDUL:AI 2041: Ten Visions for Our Future
+TAHUN:2021
+ISBN:9780593238295
+SINOPSIS:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet.
+PENULIS:Kai-Fu Lee::Taiwan/AS
+PENULIS:Chen Qiufan::Tiongkok
+---
+KATEGORI:Teknologi
+JUDUL:Code (Updated): The Hidden Language of Computer Hardware and Software
+TAHUN:2022
+ISBN:9780137909100
+SINOPSIS:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet.
+PENULIS:Charles Petzold::Amerika Serikat
+---
+KATEGORI:Filsafat
+JUDUL:Filosofi Teras: Filsafat Yunani-Romawi Kuno untuk Mental Tangguh Masa Kini
+TAHUN:2018
+ISBN:978-623-346-931-9
+SINOPSIS:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet.
+PENULIS:Henry Manampiring::Indonesia
+---
+KATEGORI:Filsafat
+JUDUL:Filsafat Ilmu: Sebuah Pengantar Populer
+TAHUN:2010
+ISBN:978-979-416-899-8
+SINOPSIS:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet.
+PENULIS:Jujun S. Suriasumantri::Indonesia
+---
+KATEGORI:Filsafat
+JUDUL:Buku Ajar Filsafat Ilmu
+TAHUN:2020
+ISBN:978-623-02-0901-7
+SINOPSIS:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet.
+PENULIS:Agus Thoha::Indonesia
+---
+KATEGORI:Filsafat
+JUDUL:Filsafat di Indonesia: Manusia dan Budaya
+TAHUN:2010
+ISBN:9786029012150
+SINOPSIS:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet.
+PENULIS:Hengky Alexander Mangkulo::Indonesia
+---
+KATEGORI:Filsafat
+JUDUL:Sophie's World: A Novel About the History of Philosophy
+TAHUN:2010
+ISBN:9781857992915
+SINOPSIS:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet.
+PENULIS:Jostein Gaarder::Norwegia
+---
+KATEGORI:Sejarah
+JUDUL:Sejarah Indonesia: Dinamika Bangsa dalam Arus Global (10 jilid)
+TAHUN:2025
+ISBN:ISBN berbeda per jilid
+SINOPSIS:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet.
+PENULIS:123 sejarawan dari 34 universitas::Indonesia
+---
+KATEGORI:Sejarah
+JUDUL:Melihat Indonesia dari Mata Pemuda
+TAHUN:2023
+ISBN:ISBN ada di katalog Deepublish
+SINOPSIS:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet.
+PENULIS:Nur Khafi Udin Pancar Setiabudi Ilham Mukarromah::Indonesia
+---
+KATEGORI:Sejarah
+JUDUL:Perjuangan Mempertahankan Kemerdekaan Indonesia
+TAHUN:2017
+ISBN:ISBN ada di katalog Deepublish
+SINOPSIS:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet.
+PENULIS:Koesmi Hartiyah::Indonesia
+---
+KATEGORI:Sejarah
+JUDUL:Sapiens: A Brief History of Humankind
+TAHUN:2014
+ISBN:9780099590088
+SINOPSIS:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet.
+PENULIS:Yuval Noah Harari::Israel
+---
+KATEGORI:Sejarah
+JUDUL:Guns, Germs, and Steel: The Fates of Human Societies
+TAHUN:2010
+ISBN:9780393317558
+SINOPSIS:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet.
+PENULIS:Jared Diamond::Amerika Serikat
+---
+KATEGORI:Agama
+JUDUL:Muhammad: Lelaki Penggenggam Hujan
+TAHUN:2011
+ISBN:9786028811310
+SINOPSIS:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet.
+PENULIS:Tasaro GK::Indonesia
+---
+KATEGORI:Agama
+JUDUL:Man's Search for Meaning
+TAHUN:2010
+ISBN:9780807014295
+SINOPSIS:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet.
+PENULIS:Viktor E. Frankl::Austria
+---
+KATEGORI:Agama
+JUDUL:The Purpose Driven Life
+TAHUN:2012
+ISBN:9780310337508
+SINOPSIS:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet.
+PENULIS:Rick Warren::Amerika Serikat
+---
+KATEGORI:Agama
+JUDUL:Islam: A Short History
+TAHUN:2010
+ISBN:9780812966183
+SINOPSIS:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet.
+PENULIS:Karen Armstrong::Inggris
+---
+KATEGORI:Agama
+JUDUL:Sejarah Tuhan (A History of God)
+TAHUN:2010
+ISBN:9780345384560
+SINOPSIS:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet.
+PENULIS:Karen Armstrong::Inggris
+---
+KATEGORI:Psikologi
+JUDUL:Pulih dari Trauma: Berkenalan dengan Trauma dan Proses Penyembuhan yang Penuh Harapan
+TAHUN:2025
+ISBN:ISBN tercantum di katalog Gramedia
+SINOPSIS:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet.
+PENULIS:dr. Jiemi Ardian, Sp.KJ::Indonesia
+---
+KATEGORI:Psikologi
+JUDUL:Mindset: The New Psychology of Success
+TAHUN:2006
+ISBN:9780345472328
+SINOPSIS:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet.
+PENULIS:Carol S. Dweck::Amerika Serikat
+---
+KATEGORI:Psikologi
+JUDUL:Emotional Intelligence: Why It Can Matter More Than IQ
+TAHUN:1995
+ISBN:9780553383713
+SINOPSIS:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet.
+PENULIS:Daniel Goleman::Amerika Serikat
+---
+KATEGORI:Psikologi
+JUDUL:How to be Alone and Not Feel Lonely: Seni Berdamai dengan Rasa Sepi
+TAHUN:2024
+ISBN:978-602-955-282-9
+SINOPSIS:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet.
+PENULIS:Tristanti Wahyuni::Indonesia
+---
+KATEGORI:Politik
+JUDUL:Literasi Politik dan Konsolidasi Demokrasi di Indonesia
+TAHUN:2024
+ISBN:ISBN tercantum di katalog UIN
+SINOPSIS:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet.
+PENULIS:Heryanto::Indonesia
+---
+KATEGORI:Politik
+JUDUL:Demokrasi dan Tata Kelola Pemilu di Indonesia
+TAHUN:2018
+ISBN:978-602-280-008-8
+SINOPSIS:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet.
+PENULIS:Munir Subarman::Indonesia
+---
+KATEGORI:Politik
+JUDUL:Politik Hukum di Indonesia
+TAHUN:2018
+ISBN:978-602-6215-65-9
+SINOPSIS:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet.
+PENULIS:Hanafi Amrani::Indonesia
+---
+KATEGORI:Politik
+JUDUL:Hukum dan Politik di Era Otonomi Daerah
+TAHUN:2019
+ISBN:978-623-209-988-3
+SINOPSIS:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet.
+PENULIS:Agus Anjar::Indonesia
+---
+KATEGORI:Politik
+JUDUL:Ekonomi Politik Pembangunan Daerah
+TAHUN:2020
+ISBN:978-623-02-1343-4
+SINOPSIS:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet.
+PENULIS:Imron Wasi::Indonesia
+---
+KATEGORI:Fiksi
+JUDUL:Marmut Merah Jambu (Edisi Revisi)
+TAHUN:2017
+ISBN:978-602-220-232-5
+SINOPSIS:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet.
+PENULIS:Raditya Dika::Indonesia
+---
+KATEGORI:Fiksi
+JUDUL:Kambing Jantan: Sebuah Catatan Pelajar Bodoh
+TAHUN:2005
+ISBN:978-979-3600-69-7
+SINOPSIS:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet.
+PENULIS:Raditya Dika::Indonesia
+---
+KATEGORI:Fiksi
+JUDUL:Lelaki Harimau
+TAHUN:2014
+ISBN:9786020310268
+SINOPSIS:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet.
+PENULIS:Eka Kurniawan::Indonesia
+---
+KATEGORI:Fiksi
+JUDUL:Negeri di Ujung Tanduk
+TAHUN:2013
+ISBN:9789797806439
+SINOPSIS:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet.
+PENULIS:Tere Liye::Indonesia
+---
+KATEGORI:Fiksi
+JUDUL:The Compass: Filosofi Arete untuk Bahagia Sejati
+TAHUN:2023
+ISBN:978-623-493-263-8
+SINOPSIS:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet.
+PENULIS:Henry Manampiring::Indonesia
+---
