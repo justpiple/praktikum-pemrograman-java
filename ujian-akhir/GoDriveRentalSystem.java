@@ -59,7 +59,7 @@ class GoDriveRentalSystem {
                     System.out.printf("%-15s : -Rp%,.0f%n", "Diskon VIP", biayaDasar * 0.10);
                 }
 
-                if (memberVip && lamaSewa > 7) {
+                if (lamaSewa > 7) {
                     System.out.printf("%-15s : -Rp%,.0f%n", "Diskon >7 Hari", biayaDasar * 0.10);
                 }
 
